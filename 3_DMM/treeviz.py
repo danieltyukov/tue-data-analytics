@@ -1,12 +1,3 @@
-"""
-treeviz.py
-
-A simple tree visualizer for sklearn DecisionTreeClassifiers.
-
-Written by Lutz Hamel, (c) 2017 - Univeristy of Rhode Island
-"""
-# URL: https://github.com/scikit-learn/scikit-learn/files/902272/treeviz.txt
-
 import operator
 
 def tree_print(clf, X):
